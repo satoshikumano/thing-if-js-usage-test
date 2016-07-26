@@ -1,0 +1,19 @@
+{
+  "name": "thing-if-JS-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+      "kii-thing-sdk" : "file:~/git-wc/thing-if/thing-if-JSSDK"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "chai": "^3.5.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
