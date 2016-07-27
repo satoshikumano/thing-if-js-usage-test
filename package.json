@@ -4,7 +4,7 @@
   "description": "",
   "main": "test.js",
   "dependencies": {
-      "kii-thing-sdk" : "file:~/git-wc/thing-if/thing-if-JSSDK"
+      "thing-if-sdk" : "file:/Users/satoshi/git-wc/thing-if/thing-if-JSSDK"
   },
   "devDependencies": {
     "mocha": "^2.5.3",
