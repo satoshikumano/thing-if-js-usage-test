@@ -207,13 +207,4 @@ describe("Usage Test", function () {
         });
     });
 
-    it("Shows how to install MQTT to receive notification from Thing-IF", function(done){
-        api.installMqtt(false).then((endpoint:ThingIF.MqttInstallationResult) => {
-            api.target.
-        }).catch((error:Error) => {
-            // Handle error here.
-            done(error);
-        });
-    });
-
 });
